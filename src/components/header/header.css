@@ -1,0 +1,9 @@
+header {
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+    border-bottom: solid#eee 1px;
+}
+
+header .info {
+    color: #138ca0;
+}

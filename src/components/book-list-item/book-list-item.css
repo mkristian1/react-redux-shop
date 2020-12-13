@@ -1,0 +1,17 @@
+.book-list-item {
+    margin-bottom: 2rem;
+}
+
+.book-list-item img {
+    width: 140px;
+    max-width: 100%;
+}
+
+.book-list-item strong {
+    color: #138ca0
+}
+
+.book-list-item .badge strong {
+    color: #fff;
+    font-size: 1.2rem;
+}
